@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867049906625",
+    "project_id": "gradecapital-1fd3b",
+    "storage_bucket": "gradecapital-1fd3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867049906625:android:04f440ad0786eaa3f64f40",
+        "android_client_info": {
+          "package_name": "com.gradecpaital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBuBgUcOffIZ-twGExYqvW-cbCB1EZLjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
